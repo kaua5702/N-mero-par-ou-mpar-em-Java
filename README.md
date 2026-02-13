@@ -7,13 +7,11 @@ Este projeto é um programa simples em Java que solicita ao usuário um número 
 
 
 ## 💻 Exemplo de uso
-Digite um número inteiro:
- 7
+Digite um número inteiro: 7
 O número 7 é ÍMPAR.
 
 
-Digite um número inteiro: 
- 10
+Digite um número inteiro: 10
 O número 10 é PAR.
 
 
